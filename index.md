@@ -1,16 +1,8 @@
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-# Hello World! {#identifier .heading1}
+# Dear Audrey
 
 <!-- ![heart](./heart.jpg) -->
+
+# Hope you have a nice day.
+
+# Your business partner,
+# Himesama
