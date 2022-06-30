@@ -1,3 +1,3 @@
-# Hello World! {style="color: red;"}
+# Hello World! {#identifier style="color: red;"}
 
 <!-- ![heart](./heart.jpg) -->
