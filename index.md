@@ -1,8 +1,10 @@
-# Dear Audrey
+Dear Audrey
 
 <!-- ![heart](./heart.jpg) -->
 
-# Hope you have a nice day.
+I like you.
+A lot.
+Hope you have a nice day.
 
-# Your business partner,
-# Himesama
+Your friend from math,
+Himesama
