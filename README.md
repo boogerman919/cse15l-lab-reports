@@ -1,1 +1,1 @@
-# This is for my CSE15L lab class and my girlfriend
+# This is for my cse 15l lab class and my girlfriend
