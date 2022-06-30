@@ -1,4 +1,4 @@
-<!-- Dear Audrey,
+Dear Audrey,
 
 ![heart](./heart.jpg)
 
@@ -10,13 +10,6 @@ Hope you have a nice day.
 
 Your friend from math,
 
-Himesama -->
+Himesama
 
-## hello world
-
----
-
-![image](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
-
-**_hi_**
 
